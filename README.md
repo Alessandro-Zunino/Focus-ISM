@@ -1,6 +1,6 @@
 # Focus-ISM
 
-[![License](https://img.shields.io/pypi/l/napari-ISM.svg?color=green)](https://github.com/VicidominiLab/ISM-processing/raw/main/LICENSE)
+[![License](https://img.shields.io/pypi/l/napari-ISM.svg?color=green)](https://github.com/Alessandro-Zunino/Focus-ISM/blob/main/LICENSE)
 [![Python Version](https://img.shields.io/pypi/pyversions/napari-ISM.svg?color=green)](https://python.org)
 <!--
 [![tests](https://github.com/VicidominiLab/napari-ISM/workflows/tests/badge.svg)](https://github.com/VicidominiLab/napari-ISM/actions)
