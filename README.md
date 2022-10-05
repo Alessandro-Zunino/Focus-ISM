@@ -1,12 +1,7 @@
 # Focus-ISM
 
-[![License](https://img.shields.io/pypi/l/napari-ISM.svg?color=green)](https://github.com/Alessandro-Zunino/Focus-ISM/blob/main/LICENSE)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-green.svg)](https://github.com/Alessandro-Zunino/Focus-ISM/blob/main/LICENSE)
 [![Python Version](https://img.shields.io/pypi/pyversions/napari-ISM.svg?color=green)](https://python.org)
-<!--
-[![tests](https://github.com/VicidominiLab/napari-ISM/workflows/tests/badge.svg)](https://github.com/VicidominiLab/napari-ISM/actions)
-[![codecov](https://codecov.io/gh/VicidominiLab/napari-ISM/branch/main/graph/badge.svg)](https://codecov.io/gh/VicidominiLab/napari-ISM)
--->
-
 
 A toolbox for analysing Image Scanning Microscopy (ISM) datasets. It contains libraries for:
 
