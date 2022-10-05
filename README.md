@@ -12,9 +12,9 @@ A toolbox for analysing Image Scanning Microscopy (ISM) datasets. It contains li
 
 ## Installation
 
-The libraries can be used simply by downloading and calling them in any Python script.
+The libraries can be used simply by downloading and importing them in any Python script.
 
-It requires the following Python packages
+They require the following Python packages
 
     numpy
 	scipy
