@@ -27,10 +27,6 @@ They require the following Python packages
 Distributed under the terms of the [GNU GPL v3.0] license,
 "Focus-ISM" is free and open source software
 
-## Issues
-
-If you encounter any problems, please [file an issue] along with a detailed description.
-
 [MIT]: http://opensource.org/licenses/MIT
 [BSD-3]: http://opensource.org/licenses/BSD-3-Clause
 [GNU GPL v3.0]: http://www.gnu.org/licenses/gpl-3.0.txt
