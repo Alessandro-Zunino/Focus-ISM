@@ -36,7 +36,7 @@ The execution time is expected to be less than 10 minutes on a modern computer.
 ## Instructions for use
 
 The libraries can be used with any data, following the same steps shown in the demo script.
-The user should simply import the ISM dataset to be analyzed.
+The user should simply read the desired ISM dataset and use it as the input of the focusISM function.
 
 ## License
 
