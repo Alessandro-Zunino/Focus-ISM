@@ -7,7 +7,7 @@ from sklearn.metrics import r2_score
 import multiprocessing
 from joblib import Parallel, delayed
 
-import ISM_processing.APR_lib as APR
+import APR_lib as APR
 
 #%%
 
