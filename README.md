@@ -10,6 +10,10 @@ A toolbox for analysing Image Scanning Microscopy (ISM) datasets. It contains li
 
 ----------------------------------
 
+## Installation
+
+The libraries can be used simply by downloading and calling them in any Python script.
+
 It requires the following Python packages
 
     numpy
@@ -17,11 +21,6 @@ It requires the following Python packages
     matplotlib
 	scikit-image
     scikit-learn
-
-## Contributing
-
-Contributions are very welcome. Tests can be run with [tox], please ensure
-the coverage at least stays the same before you submit a pull request.
 
 ## License
 
