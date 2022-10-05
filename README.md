@@ -10,17 +10,33 @@ A toolbox for analysing Image Scanning Microscopy (ISM) datasets. It contains li
 
 ----------------------------------
 
-## Installation
+## System requirements
+
+The code has been tested on a Windows 10 machine, using Python Python 3.10.2
+The following Python packages are required:
+
+	numpy
+	scipy
+	matplotlib
+	scikit-image
+	scikit-learn
+
+## Installation guide
 
 The libraries can be used simply by downloading and importing them in any Python script.
+The download is expect to last less than a minute.
 
-They require the following Python packages
+## Demo
 
-    numpy
-	scipy
-    matplotlib
-	scikit-image
-    scikit-learn
+The repository contains a sample ISM dataset, "demo_img.npy", and a demonstration script, "demo.py".
+The demo can be executed simply by running the script. The software will ask the user to select a region of the sample containing mostly in-focus emitters, to perform the calibration procedure.
+The result will be a panel with four images, namely (1) closed pinhole, (2) open pinhole, (3) ISM reconstruction, (4) Focus-ISM reconstruction.
+The execution time is expected to be less than 10 minutes on a modern computer.
+
+## Instructions for use
+
+The libraries can be used with any data, following the same steps shown in the demo script.
+The user should simply import the ISM dataset to be analyzed.
 
 ## License
 
