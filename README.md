@@ -12,7 +12,7 @@ A toolbox for analysing Image Scanning Microscopy (ISM) datasets. It contains li
 
 ## System requirements
 
-The code has been tested on a Windows 10 machine, using Python Python 3.10.2 on Spyder IDE 5.2.2
+The code has been tested on a Windows 10 machine, using Python 3.10.2 on Spyder IDE 5.2.2
 
 The following Python packages are required:
 
